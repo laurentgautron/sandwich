@@ -1,0 +1,5 @@
+.tomates
+.pâte
+.ciboulette
+.lardons
+.oignons
