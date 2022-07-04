@@ -1,0 +1,4 @@
+.pain
+.tomates
+.salade
+.cornichons
